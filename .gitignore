@@ -5,6 +5,7 @@ __pycache__/
 # ignore new png files
 *.png 
 
+
 # C extensions
 *.so
 
