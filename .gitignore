@@ -4,9 +4,6 @@ __pycache__/
 *$py.class
 # ignore new png files
 *.png 
-
-
-
 # C extensions
 *.so
 
